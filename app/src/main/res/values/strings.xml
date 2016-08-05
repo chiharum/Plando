@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plando</string>
+    <string name="plan_text">Plan</string>
+    <string name="do_text">Do</string>
+    <string name="date_text">Date</string>
+    <string name="planTitle_text">Plan Title</string>
+    <string name="toMark">~</string>
+    <string name="isAlert_text">Alert at the end.</string>
+    <string name="startStop_text">Start/Stop</string>
+</resources>
