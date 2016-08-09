@@ -7,4 +7,8 @@
     <string name="toMark">~</string>
     <string name="isAlert_text">Alert at the end.</string>
     <string name="startStop_text">Start/Stop</string>
+    <string name="useToDate">Type today date</string>
+    <string name="planChoosingDialogTitle">Please Choose from existing plans or choose New Plan to make a new plan.</string>
+    <string name="newPlan_text">New plan</string>
+    <string name="planNewPlan_title">Plan a new plan</string>
 </resources>
