@@ -11,6 +11,10 @@ public class MySQLiteOpenHelper extends SQLiteOpenHelper {
     static final String planTitlesTable = "planTitle";
     static final int databaseVersion = 1;
 
+    static final String plan_title = "plan_title";
+    static final String plan_id = "plan_id";
+    static final String date = "date";
+
     public MySQLiteOpenHelper(Context context){
 
         super(context, databaseName, null, databaseVersion);

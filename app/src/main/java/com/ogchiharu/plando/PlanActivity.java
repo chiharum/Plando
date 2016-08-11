@@ -23,9 +23,9 @@ public class PlanActivity extends AppCompatActivity {
         taskTitleEditText = (EditText)findViewById(R.id.planTitleEditText);
         startTimeEdit = (EditText)findViewById(R.id.startTimeEdit);
         endTimeEdit = (EditText)findViewById(R.id.endTimeEdit);
-
-
     }
+
+    //このアクティビティーを消して、ダイアログで表示しない？
 
     public void searchPlanTitles(){
 

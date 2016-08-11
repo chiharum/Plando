@@ -11,4 +11,5 @@
     <string name="planChoosingDialogTitle">Please Choose from existing plans or choose New Plan to make a new plan.</string>
     <string name="newPlan_text">New plan</string>
     <string name="planNewPlan_title">Plan a new plan</string>
+    <string name="done_text">OK</string>
 </resources>
